@@ -8,7 +8,7 @@
 * run "npm install express --save"
 
 
-## BACKEND RESPONSIBILITY
+## ===========BACKEND RESPONSIBILITY===============
 
 ## Root directory
 ### app.js
@@ -48,7 +48,7 @@
 * app.post(‘/register’)
 * export the router
 
-## FRONTEND RESPONSIBILITY
+## ============FRONTEND RESPONSIBILITY============
 
 ## views directory
 **Either in html or ejs***
