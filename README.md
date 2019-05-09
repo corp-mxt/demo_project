@@ -51,8 +51,8 @@
 ## ============FRONTEND RESPONSIBILITY============
 
 ## views directory
-**Either in html or ejs***
-**Consider using Bootstrap as it makes things much easier to design**
+* **Either in html or ejs**
+* **Consider using Bootstrap as it makes things much easier to design**
 ### home.html
 * contains template for homepage
 * could be redirected to login or register page
