@@ -56,13 +56,13 @@
 ### home.html
 * contains template for homepage
 * could be redirected to login or register page
-    => <a href="/login"></a>
-    => <a href="/register"></a>
+*    => "<a href="/login"></a>"
+*    => "<a href="/register"></a>"
 * possibly add profile page?
 ### login.html
 * form for login information
-* <form action="/login"></form>
+*   => "<form action="/login"></form>"
 * **might contain Google or Facebook login buttons**
 ### register.html
 * form for register information
-* <form action="/register"></form>
+*   => "<form action="/register"></form>"
