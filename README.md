@@ -8,6 +8,8 @@
 * run "npm install express --save"
 
 
+## BACKEND RESPONSIBILITY
+
 ## Root directory
 ### app.js
 * import: (express, passport_config, mongoose, keys, path, bodyparser, cookieparser, express session)
@@ -45,6 +47,8 @@
 * app.get(‘/register’)
 * app.post(‘/register’)
 * export the router
+
+## FRONTEND RESPONSIBILITY
 
 ## views directory
 **Either in html or ejs***
